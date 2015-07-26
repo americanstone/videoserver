@@ -1,5 +1,5 @@
 .private
-.idea/misc.xml
+.idea
 .idea/
 .project
 .classpath
@@ -9,3 +9,7 @@
 videos
 bin
 build
+local.properties
+assignment2_solution_videoServer.iml
+assignment2.iml
+videos
